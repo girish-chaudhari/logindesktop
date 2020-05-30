@@ -1,0 +1,2 @@
+# logindesktop
+not responsive
